@@ -1,3 +1,5 @@
 theme: jekyll-theme-slate
 title: クリーンキャッシュ
 description: ○○市のクリーン計画
+show_downloads: true
+google_analytics:
