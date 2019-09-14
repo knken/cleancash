@@ -13,8 +13,8 @@
 付与されるポイントは、年齢に応じて変化していきます。詳しくは
 ### [リンクテキスト](URL "タイトル")<br><br><br><br>
 ## クリーンキャッシュの目的<br>
-近年、○○市では空き缶や吸い殻などのポイ捨ての量が増加しています。
-<img width="200px" alt="しろいねこ" src="https://pbs.twimg.com/media/EEZYOftU0AApKBD?format=png&name=small">
-更に、○○商店街の利用者数も年々減少していき、閉店する店舗も増えています。
-<img width="200px" alt="しろいねこ" src="https://pbs.twimg.com/media/EEZYOfsUUAA9JAO?format=png&name=small">
+近年、○○市では空き缶や吸い殻などのポイ捨ての量が増加しています。<br>
+<img width="200px" alt="しろいねこ" src="https://pbs.twimg.com/media/EEZYOftU0AApKBD?format=png&name=small"><br>
+更に、○○商店街の利用者数も年々減少していき、閉店する店舗も増えています。<br>
+<img width="200px" alt="しろいねこ" src="https://pbs.twimg.com/media/EEZYOfsUUAA9JAO?format=png&name=small"><br>
 このクリーンキャッシュは、○○市のゴミのポイ捨て問題の解消、更には○○市を支える○○商店街の活性化のために生み出されたプロジェクトです。<br>
