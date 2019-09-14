@@ -12,6 +12,6 @@
 ## クリーンキャッシュの手に入れ方、使い方<br>
 月1回市の所定の場所で清掃活動を行っております。初めて清掃活動にご参加いただいた方には新しく**スタンプカード**を配布しております。その**スタンプカード**を毎回来ていただく度に提示していただいて、参加するごとにポイントが貯まっていくシステムです。<br>
 貯まったポイントは、主に○○商店街の契約店の割引クーポンとの交換が各店舗で行えます。詳しくは
-### [ここをクリック](https://w009ff.github.io/cleancash "タイトル")<br><br><br><br><br>
+### [clickhere](https://w009ff.github.io/cleancash "タイトル")<br><br><br><br><br>
 ## 協賛店一覧<br>
-### [ここをクリック](https://mizutanikosuke.github.io/kyousanten "タイトル")
+### [clickhere](https://mizutanikosuke.github.io/kyousanten "タイトル")
