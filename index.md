@@ -15,6 +15,3 @@
 ### [ここをクリック](https://w009ff.github.io/cleancash "タイトル")<br><br><br><br><br>
 ## 協賛店一覧<br>
 ### [ここをクリック](https://mizutanikosuke.github.io/kyousanten "タイトル")
-
-//mizutanikosuke kyousanten
-//w009ff clean
