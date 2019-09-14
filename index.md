@@ -1,5 +1,6 @@
+<img width="30px" alt="しろいねこ" src="https://pbs.twimg.com/media/EEZV-beU0AIS7GD?format=jpg&name=120x120">
 ## クリーンキャッシュって？<br>
-<img width="数値" alt="代替テキスト" src="https://pbs.twimg.com/media/EEZV-beU0AIS7GD?format=jpg&name=120x120">
+
 クリーンキャッシュは、○○市のゴミのポイ捨て問題の解消のために作られた、ゴミの多い地域や自治体向けの地域通貨です。<br>
 この通貨は、週1度行われる市内の清掃活動にご参加いただいた方に付与されるポイント形式となっております。<br>
 <br><br><br><br>
